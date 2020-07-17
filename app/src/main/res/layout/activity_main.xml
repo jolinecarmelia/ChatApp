@@ -18,7 +18,7 @@
         android:ems="50"
         android:hint="Name"
         android:inputType="textPersonName"
-        android:text="hello"
+        android:text=":D"
         app:layout_constraintBottom_toTopOf="@+id/Email"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
