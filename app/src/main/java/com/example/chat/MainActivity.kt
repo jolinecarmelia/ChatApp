@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         val email = email_editText_register.text.toString()
         val password = password_edittext_register.text.toString()
 
-        Log.d(tag: "MainActivity", msg: "Email is: " + email)
+        Log.d(tag: "MainActivity", msg: "Email is: " + email) 
         Log.d(tag: "MainActivity", msg: "Password is: $password")
     }
 }
